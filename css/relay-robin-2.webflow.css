@@ -235,6 +235,10 @@ p {
 .content-column.right-column-text {
   padding-top: 70px;
 }
+.content-column.right-column-text.content-column-padding {
+  margin-left: 0px;
+  padding-left: 50px;
+}
 .circle {
   height: 303px;
   margin-bottom: 25px;
@@ -389,6 +393,9 @@ p {
 }
 .grey-section {
   background-color: #f9f9f9;
+}
+.custom-paragraphs {
+  padding-right: 30px;
 }
 @media (max-width: 991px) {
   p {
