@@ -11,7 +11,7 @@ if ( !defined( "PHP_EOL" ) ) define( "PHP_EOL", "\r\n" );
 // Enter the email address that you want to emails to be sent to.
 // Example $address = "joe.doe@yourdomain.com";
 
-$address = "gfeezee@gmail.com";
+$address = "sales@relayrobin.com";
 
 // END OF Simple Configuration Options
 
